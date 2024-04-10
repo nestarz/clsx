@@ -1,3 +1,4 @@
+/// <reference types="../clsx.d.mts" />
 export function clsx() {
 	var i=0, tmp, str='', len=arguments.length;
 	for (; i < len; i++) {

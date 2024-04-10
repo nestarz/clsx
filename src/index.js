@@ -1,3 +1,4 @@
+/// <reference types="../clsx.d.mts" />
 function toVal(mix) {
 	var k, y, str='';
 

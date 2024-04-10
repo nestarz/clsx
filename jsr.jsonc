@@ -1,0 +1,10 @@
+{
+    "name": "@bureaudouble/clsx",
+    "version": "0.0.2",
+    "exclude": ["**/!{./src/index.js,./src/lite.js,./clsx.d.mts}"],
+    "exports": {
+        ".": "./src/index.js",
+        "./lite": "./src/lite.js"
+    }
+}
+  
